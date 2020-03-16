@@ -8,7 +8,7 @@ We analyzed weather patterns in June and December to determine if the seasons wo
 
 ### Temperatures in Oahu for June and December (Every Year Data)
 
-!EveryYearData(https://github.com/Samira786/surfs_up/blob/master/June%20and%20December%20-%20every%20year%20data.png)
+![EveryYearData](https://github.com/Samira786/surfs_up/blob/master/June%20and%20December%20-%20every%20year%20data.png)
 
 
 
