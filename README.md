@@ -17,6 +17,12 @@ Max Temperature: June is 85 degrees while December is 83.<br />
 Min Temperature: June is 64 degrees while December is 56.<br />
 In conclusion, the temperatures did not vary including in the quartiles for 25%, 50% and 75%. Min temperatures varying is not surprising as December is known for being a colder month.
 
+### Recommendations
+Some recommendations include:<br />
+1) Gathering more data to determine the differences between June and December to capture unexpected temperatures or outliers.<br />
+2) Compare other months or compare quarters such as January/February/March to October/November/December in order to get a different perspective of the data.<br />
+3) Are there other ice cream shops in the area? Are they open all year round? Is there any other data that can be retrieved about the competition?
+
 
 
 
