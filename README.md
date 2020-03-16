@@ -10,6 +10,13 @@ We analyzed weather patterns in June and December to determine if the seasons wo
 
 ![EveryYearData](https://github.com/Samira786/surfs_up/blob/master/June%20and%20December%20-%20every%20year%20data.png)
 
+Above are the temperatures gathered for June and December.<br />
+Average: We see that the average for June and December are 74 degrees and 71 degrees respectively.<br />
+Standard Deviation: We see the Standard Deviations were 3.25 and 3.74 for June and December respectively, indicating the temperatures could vary around the mean.<br />
+Max Temperature: June is 85 degrees while December is 83.<br />
+Min Temperature: June is 64 degrees while December is 56.<br />
+In conclusion, the temperatures did not vary including in the quartiles for 25%, 50% and 75%. Min temperatures varying is not surprising for December being a much colder month.
+
 
 
 
